@@ -1,0 +1,16 @@
+En este ejercicio se aprendio:
+Crear de manera general una mini aplicacion Rails
+Esta aplicacion aun le faltan varias cosas importantes y tiene varias fallas de seguridad, sin embargo nos da una vision del desarrollo de aplicaciones Rails
+Nos da un primer asercamiento de la arquitectura REST y como Rails la maneja de forma magica
+Se inicio con la creacion ya de bases de datos y acceso a esta mediante los modelos 
+Podemos decir que se ha desarrollado una aplicacion Back End con Base de Datos fucional que se puede poner en produccion de inmediato
+
+No cuenta con:
+Un Layout con estilos
+No tiene paginas estaticas como Home o About
+No hay autenticacion con usuario y password
+No Login
+No seguridad
+No hay asociacion automatica user/micropost
+
+En los siguientes ejemplos se iran resolviendo las anteriores debilidades
